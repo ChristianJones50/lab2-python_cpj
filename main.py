@@ -17,10 +17,8 @@ def getLetterGrade(grade):
     print("Your letter grade for CMPSC 131 is B-.")
   elif grade >= 77.0:
     print("Your letter grade for CMPSC 131 is C+.")
-  elif grade >= 73.0:
-    print("Your letter grade for CMPSC 131 is C.")
   elif grade >= 70.0:
-    print("Your letter grade for CMPSC 131 is C-.")
+    print("Your letter grade for CMPSC 131 is C.")
   elif grade >= 60.0:
     print("Your letter grade for CMPSC 131 is D.")
   elif grade < 60.0:
